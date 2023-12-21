@@ -1,6 +1,6 @@
- Created a simple photography web page using HTML & CSS 
+# Created a simple photography web page using HTML & CSS 
 
-Technologies used :
+# Technologies used :
 1.HTML
 2.CSS
-Nilay Chopkar Email: nilaychopkar2509@gmail.com
+# Nilay Chopkar Email: nilaychopkar2509@gmail.com
